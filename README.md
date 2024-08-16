@@ -51,7 +51,7 @@ Thank you for taking the time to read my bio. I'm excited to embark on this jour
 
 - 📫 How to reach me **anmolchandrakar999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pg3MNlQ0T4JGIP9wT-WwfaFKmkhr3dp4/view?usp=sharing](https://drive.google.com/file/d/1Pg3MNlQ0T4JGIP9wT-WwfaFKmkhr3dp4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Pg3MNlQ0T4JGIP9wT-WwfaFKmkhr3dp4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
