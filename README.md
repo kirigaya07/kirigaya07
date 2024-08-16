@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kirigaya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kirigaya07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anmol chandrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol chandrakar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anmol-chandrakar-151b00257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol chandrakar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kirigaya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kirigaya07" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kirigaya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kirigaya07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kirigaya07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kirigaya07" height="30" width="40" /></a>
