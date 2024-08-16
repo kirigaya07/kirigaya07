@@ -1,5 +1,52 @@
-<h1 align="center">Hi 👋, I'm Anmol Chandrkar</h1>
-<h3 align="center">Hello! My name is Anmol Chandrakar and I am excited to join the GitHub community. Thank you for taking the time to read my bio. I am excited to embark on this journey as a GitHub beginner and look forward to connecting with fellow developers and contributing to the open-source ecosystem. If you have any advice or recommendations, please feel free to reach out to me. Let's make something amazing together! 🚀 My ultimate goal is to become a proficient Github user and contribute meaningfully to the open-source community. I am eager to collaborate with experienced developers and learn from their expertise. I am also excited about starting my projects and seeing them come to life. As a beginner, I am committed to continuous learning and self-improvement. I am actively reading tutorials, and books, and taking online courses to expand my knowledge of programming languages, software development methodologies, and Github best practices. Although I am new to Github, I have already found the platform incredibly valuable. It is a place where developers can connect, collaborate, and share their work. The ability to find and contribute to existing projects has been a game-changer for me I have always been fascinated by technology and its ability to connect people and ideas. From an early age, I dabbled in coding and software development but never had the opportunity to pursue it as a career. Now, I have decided to dedicate myself to learning and growing as a developer. As a beginner, I am eager to learn and contribute to the open-source community. With my passion for technology and coding, I am excited to join this incredible platform.</h3>
+<h1 align="center">👋 Hello, World! I'm Anmol Chandrakar</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Open%20Source%20Enthusiast-3b5998?style=for-the-badge&logo=github" alt="Open Source Enthusiast"/>
+  <img src="https://img.shields.io/badge/-Learning%20Everyday-ff5722?style=for-the-badge&logo=gitbook" alt="Learning Everyday"/>
+</p>
+
+---
+
+### 🚀 About Me
+
+Hello! My name is **Anmol Chandrakar**, and I am thrilled to join the GitHub community. My ultimate goal is to become a proficient GitHub user and contribute meaningfully to the open-source community. 
+
+- 🌟 **Aspiring Developer:** Committed to continuous learning and self-improvement.
+- 🤝 **Collaboration Enthusiast:** Excited to work with experienced developers and learn from their expertise.
+- 💡 **Project Starter:** Looking forward to bringing my ideas to life through open-source projects.
+- 📚 **Lifelong Learner:** Actively reading tutorials, books, and taking online courses to expand my knowledge.
+
+---
+
+### 💻 My Journey So Far
+
+- 👶 **New to GitHub:** Although I'm just getting started, I already find this platform incredibly valuable.
+- 🔍 **Explorer:** Fascinated by the ability to find and contribute to existing projects.
+- 👨‍💻 **Passionate About Technology:** From an early age, I've been intrigued by coding and software development.
+- 🚀 **Dedicated to Growth:** I've decided to fully immerse myself in learning and growing as a developer.
+
+---
+
+### 🎯 My Goals
+
+- **Become a proficient GitHub user** and make meaningful contributions to the open-source ecosystem.
+- **Start and maintain my projects**, seeing them through from idea to completion.
+- **Connect with like-minded developers** and learn from their experiences and insights.
+
+---
+
+### ✨ Let's Connect
+
+Thank you for taking the time to read my bio. I'm excited to embark on this journey as a GitHub beginner and look forward to connecting with fellow developers. If you have any advice or recommendations, please feel free to reach out to me.
+
+---
+
+<p align="center">
+  <a href="https://github.com/AnmolChandrakar">
+    <img src="https://img.shields.io/badge/-Follow%20Me%20on%20GitHub-black?style=for-the-badge&logo=github" alt="Follow Me on GitHub"/>
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirigaya07" alt="kirigaya07" /></a> </p>
 
