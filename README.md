@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hello, World! I'm Anmol Chandrakar</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Open%20Source%20Enthusiast-3b5998?style=for-the-badge&logo=github" alt="Open Source Enthusiast"/>
-  <img src="https://img.shields.io/badge/-Learning%20Everyday-ff5722?style=for-the-badge&logo=gitbook" alt="Learning Everyday"/>
-</p>
-
 ---
 
 ### 🚀 About Me
