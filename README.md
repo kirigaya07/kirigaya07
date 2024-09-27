@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hello, World! I'm Anmol Chandrakar</h1>
+<h1 align="center" style="color:#FFFFFF;">👋 Hello, World! I'm Anmol Chandrakar</h1>
 
 ---
 
 ### 🚀 About Me
 
-Hello! My name is **Anmol Chandrakar**, and I am thrilled to join the GitHub community. My ultimate goal is to become a proficient GitHub user and contribute meaningfully to the open-source community. 
+Hello! My name is **Anmol Chandrakar**, and I am thrilled to join the GitHub community. My ultimate goal is to become a proficient GitHub user and contribute meaningfully to the open-source community.
 
 - 🌟 **Aspiring Developer:** Committed to continuous learning and self-improvement.
 - 🤝 **Collaboration Enthusiast:** Excited to work with experienced developers and learn from their expertise.
@@ -38,7 +38,7 @@ Thank you for taking the time to read my bio. I'm excited to embark on this jour
 
 <p align="center">
   <a href="https://github.com/AnmolChandrakar">
-    <img src="https://img.shields.io/badge/-Follow%20Me%20on%20GitHub-black?style=for-the-badge&logo=github" alt="Follow Me on GitHub"/>
+    <img src="https://img.shields.io/badge/-Follow%20Me%20on%20GitHub-lightgrey?style=for-the-badge&logo=github" alt="Follow Me on GitHub"/>
   </a>
 </p>
 
@@ -53,7 +53,7 @@ Thank you for taking the time to read my bio. I'm excited to embark on this jour
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Pg3MNlQ0T4JGIP9wT-WwfaFKmkhr3dp4/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color:#FFFFFF;">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kirigaya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kirigaya07" height="30" width="40" /></a>
 <a href="https://twitter.com/anmolchandraka4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmolchandraka4" height="30" width="40" /></a>
