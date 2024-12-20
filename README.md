@@ -75,4 +75,4 @@ Thank you for taking the time to read my bio. I'm excited to embark on this jour
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirigaya07&show_icons=true&locale=en" alt="kirigaya07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirigaya07&" alt="kirigaya07" /></p>
+
