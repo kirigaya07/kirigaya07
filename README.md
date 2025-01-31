@@ -65,16 +65,16 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
 ## 🏆 Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/kirigaya07">
+  <a href="https://leetcode.com/kirigaya07" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/kirigaya07">
+  <a href="https://auth.geeksforgeeks.org/user/kirigaya07" target="_blank">
     <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks" alt="GFG" />
   </a>
-  <a href="https://www.codechef.com/users/kirigaya07">
+  <a href="https://www.codechef.com/users/kirigaya07" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/kirigaya07">
+  <a href="https://codeforces.com/profile/kirigaya07" target="_blank">
     <img src="https://img.shields.io/badge/CodeForces-blue?style=for-the-badge&logo=codeforces" alt="CodeForces" />
   </a>
 </p>
