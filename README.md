@@ -38,7 +38,7 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,bootstrap,git,github,linux,cpp,c,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,postgresql,tailwind,bootstrap,git,github,linux,c,cpp,java,python" />
 </p>
 
 ---
