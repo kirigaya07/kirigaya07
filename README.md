@@ -52,7 +52,7 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
   <a href="https://twitter.com/anmolchandraka4">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
-  <a href="https://github.com/AnmolChandrakar">
+  <a href="https://github.com/kirigaya07">
     <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:anmolchandrakar999@gmail.com">
