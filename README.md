@@ -64,6 +64,7 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
 
 ## 🏆 Competitive Programming Profiles
 
+
 <p align="center">
   <a href="https://leetcode.com/kirigaya07" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode" />
@@ -84,11 +85,17 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirigaya07&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirigaya07&theme=apprentice" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirigaya07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirigaya07&theme=apprentice" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirigaya07&theme=apprentice" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirigaya07&theme=apprentice" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirigaya07&theme=apprentice&utcOffset=8" alt="Productive Time" />
 </p>
 
 ---
