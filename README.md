@@ -50,14 +50,17 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
     <img src="https://img.shields.io/badge/LinkedIn-brown?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/anmolchandraka4">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://github.com/kirigaya07">
-    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:anmolchandrakar999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+<a href="https://peerlist.io/kirigaya07">
+  <img src="https://img.shields.io/badge/Peerlist-green?style=for-the-badge&logo=peerlist" alt="peerlist" />
+</a>
 </p>
 
 ---
@@ -70,13 +73,13 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/kirigaya07" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks" alt="GFG" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" />
   </a>
   <a href="https://www.codechef.com/users/kirigaya07" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-blue?style=for-the-badge&logo=codechef" alt="CodeChef" />
   </a>
   <a href="https://codeforces.com/profile/kirigaya07" target="_blank">
-    <img src="https://img.shields.io/badge/CodeForces-gray?style=for-the-badge&logo=codeforces" alt="CodeForces" />
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces" />
   </a>
 </p>
 
