@@ -1,0 +1,14 @@
+name: Test Secret
+on: [workflow_dispatch]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check secret
+        run: |
+          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
+            echo "Secret NOT set"
+            exit 1
+          else
+            echo "Secret is set"
+          fi
