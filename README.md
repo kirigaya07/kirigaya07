@@ -102,5 +102,8 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
 </p>
 
 ---
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</p>
 
 ⭐️ **Let's build something amazing together!** 🚀
