@@ -1,7 +1,8 @@
-<h1 align="center">🚀 Hello, World! I'm Anmol Chandrakar</h1>
+<h1 align="center">🚀 Hi, I'm Anmol Chandrakar</h1>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=435&lines=🔥Aspiring+Full-Stack+Developer;🤝Open+Source+Enthusiast;🎯Tech+Explorer;📚Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=500&lines=💻+Full-Stack+Developer+in+Progress;📚+Lifelong+Learner;🤝+Open+Source+Contributor;🎯+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,10 +29,10 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
 
 ## 🎯 Goals
 
-- Contribute to meaningful **open-source projects**
-- Master **MERN stack** and other modern frameworks
-- Build and deploy **scalable applications**
-- Network with **like-minded developers**
+✔ Contribute to impactful **open-source projects**  
+✔ Build and deploy **production-ready applications**  
+✔ Strengthen **DSA & problem-solving skills**  
+✔ Network with **like-minded developers**  
 
 ---
 
@@ -50,7 +51,7 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
     <img src="https://img.shields.io/badge/LinkedIn-brown?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/anmolchandraka4">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://github.com/kirigaya07">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -77,9 +78,6 @@ Hi! My name is **Anmol Chandrakar**, and I'm passionate about software developme
   </a>
   <a href="https://www.codechef.com/users/kirigaya07" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-blue?style=for-the-badge&logo=codechef" alt="CodeChef" />
-  </a>
-  <a href="https://codeforces.com/profile/kirigaya07" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces" />
   </a>
 </p>
 
