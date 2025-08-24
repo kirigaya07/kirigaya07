@@ -2246,36 +2246,36 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="52.539239814055236 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="52.48183556405353 329"/>
                                     <text x="60" y="50" dominant-baseline="central">584</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3657</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3661</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.78089887640449 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="75.69584736251403 329"/>
                                     <text x="60" y="50" dominant-baseline="central">205</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/890</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/891</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.61049868766404 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="55.552176192973256 329"/>
                                     <text x="60" y="50" dominant-baseline="central">322</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1905</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1907</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.755220417633414 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.730011587485514 329"/>
                                     <text x="60" y="50" dominant-baseline="central">57</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/862</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/863</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -2285,7 +2285,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2025, 07:37:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2025, 12:04:53 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
