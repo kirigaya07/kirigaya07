@@ -37,7 +37,7 @@ I enjoy building scalable applications, contributing to open source, and solving
 ## 🚀 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,postgresql,tailwind,bootstrap,git,github,figma,linux,c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,postgresql,prisma,tailwind,bootstrap,git,github,figma,linux,c,cpp,java,python" />
 </p>
 
 ---
