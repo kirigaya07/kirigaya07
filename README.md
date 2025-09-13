@@ -1,7 +1,5 @@
-<h1 align="center">🚀 Hi, I'm Anmol Chandrakar</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B500&center=true&vCenter=true&width=500&lines=💻+Full-Stack+Developer;📚+Lifelong+Learner;🤝+Open+Source+Contributor;🎯+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://github.com/kirigaya07/kirigaya07/blob/main/github-header-banner.png" alt="Tech Abstract Banner"" />
 </p>
 
 ---
@@ -47,21 +45,21 @@ I enjoy building scalable applications, contributing to open source, and solving
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirigaya07&theme=radical" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirigaya07&theme=blueberry" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirigaya07&theme=radical" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirigaya07&theme=radical" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirigaya07&theme=blueberry" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirigaya07&theme=blueberry" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirigaya07&theme=radical" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirigaya07&theme=radical&utcOffset=8" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirigaya07&theme=blueberry" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirigaya07&theme=blueberry&utcOffset=9" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kirigaya07&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kirigaya07&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -75,7 +73,7 @@ I enjoy building scalable applications, contributing to open source, and solving
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirigaya07&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kirigaya07&theme=nord&margin-w=18&margin-h=18" alt="trophies" />
 </p>
 
 ---
@@ -95,7 +93,7 @@ I enjoy building scalable applications, contributing to open source, and solving
 
 ---
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ⭐ **Let’s build something amazing together!** 🚀
