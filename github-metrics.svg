@@ -2299,7 +2299,7 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Water Bottles</div>
+                            <div class="title">Climbing Stairs</div>
                             <div class="date">2 Oct 2025</div>
                         </div>
                     </div>
@@ -2308,15 +2308,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Critical Connections in a Network</div>
-                            <div class="date">1 Oct 2025</div>
+                            <div class="title">Fibonacci Number</div>
+                            <div class="date">2 Oct 2025</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2025, 12:05:02 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 18:19:01 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
