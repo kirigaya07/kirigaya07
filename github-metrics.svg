@@ -2283,7 +2283,7 @@
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x162</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x132</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x108</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x100</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x101</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x83</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x83</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x78</span></div>
@@ -2320,7 +2320,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2025, 12:04:04 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Nov 2025, 18:16:28 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
