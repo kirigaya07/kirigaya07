@@ -2210,8 +2210,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.07868765004002 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">696</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="61.166444385169385 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">697</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3749</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -2219,8 +2219,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="84.32201533406352 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">234</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="84.68236582694414 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">235</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/913</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -2254,7 +2254,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x410</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x411</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x163</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x133</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x110</span></div>
@@ -2278,8 +2278,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Increment Submatrices by One</div>
-                            <div class="date">15 Nov 2025</div>
+                            <div class="title">Check If All 1's Are at Least Length K Places Away</div>
+                            <div class="date">17 Nov 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -2287,15 +2287,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Maximum Number of Operations to Move Ones to the End</div>
-                            <div class="date">14 Nov 2025</div>
+                            <div class="title">Increment Submatrices by One</div>
+                            <div class="date">15 Nov 2025</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2025, 18:23:55 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2025, 00:06:25 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
