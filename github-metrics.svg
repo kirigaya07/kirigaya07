@@ -2259,12 +2259,12 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x432</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x433</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x172</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x136</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x122</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x106</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x88</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x89</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x85</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x79</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x78</span></div>
@@ -2300,7 +2300,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2026, 18:52:57 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2026, 00:41:29 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
