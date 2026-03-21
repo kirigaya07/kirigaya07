@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/kirigaya07/kirigaya07/blob/main/github-header-banner.png" alt="Tech Abstract Banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=kirigaya07&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -56,6 +54,27 @@ I enjoy building scalable applications, contributing to open source, and solving
 
 ---
 
+## 🛠️ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/kirigaya07/AspireAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirigaya07&repo=AspireAI&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/kirigaya07/Zyflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirigaya07&repo=Zyflow&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/kirigaya07/linkyard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirigaya07&repo=linkyard&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/kirigaya07/finboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirigaya07&repo=finboard&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <!-- Profile details: monthly commit bars + language breakdown -->
@@ -81,6 +100,14 @@ I enjoy building scalable applications, contributing to open source, and solving
 <!-- Daily contribution timeline over the past year -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirigaya07&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🌐 3D Contribution Graph
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
@@ -124,6 +151,4 @@ I enjoy building scalable applications, contributing to open source, and solving
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
----
-
-<p align="center">⭐ <strong>Let's build something amazing together!</strong> 🚀</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
