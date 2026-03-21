@@ -103,7 +103,7 @@ I enjoy building scalable applications, contributing to open source, and solving
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirigaya07&theme=nord&margin-w=18&margin-h=18&no-bg=true&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kirigaya07&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </p>
 
 ---
