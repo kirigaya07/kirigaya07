@@ -1,48 +1,62 @@
 <p align="center">
-  <img src="https://github.com/kirigaya07/kirigaya07/blob/main/github-header-banner.png" alt="Tech Abstract Banner"" />
+  <img src="https://github.com/kirigaya07/kirigaya07/blob/main/github-header-banner.png" alt="Tech Abstract Banner" />
 </p>
-
----
-
-## 🌟 About Me  
-
-Hi! I'm **Anmol Chandrakar**, a passionate developer who loves turning ideas into code and exploring new technologies.  
-I enjoy building scalable applications, contributing to open source, and solving challenging problems.
-
-- 🔥 **Aspiring Full-Stack Developer**  
-- 🤝 **Open Source Enthusiast** | Always open to collaborate  
-- 🎯 **Tech Explorer** | Passionate about modern web & AI integration  
-- 📚 **Lifelong Learner** | Constantly leveling up  
-
----
-
-## 💻 My Journey So Far  
-
-- 🚀 Exploring **GitHub & Open Source**  
-- 👨‍💻 Building **real-world projects** with modern stacks  
-- 🔍 Diving into **Full-Stack Development** (MERN + Next.js)  
-- 🛠 Sharpening my **problem-solving & DSA skills**  
-
----
-
-## 🎯 Goals  
-
-✔ Contribute to impactful **open-source projects**  
-✔ Build and deploy **production-ready applications**  
-✔ Crack **coding interviews & placements**  
-✔ Connect with **like-minded developers**  
-
----
-
-## 🚀 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,postgresql,supabase,prisma,tailwind,bootstrap,git,github,figma,linux,c,cpp,java,python,fastapi" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Anmol+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;MERN+%2B+Next.js+Builder+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kirigaya07&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🌟 About Me
+
+Hi! I'm **Anmol Chandrakar**, a passionate developer who loves turning ideas into code and exploring new technologies.
+I enjoy building scalable applications, contributing to open source, and solving challenging problems.
+
+- 🔥 **Aspiring Full-Stack Developer** | MERN + Next.js
+- 🤝 **Open Source Enthusiast** | Always open to collaborate
+- 🎯 **Tech Explorer** | Passionate about modern web & AI integration
+- 📚 **Lifelong Learner** | Constantly leveling up
+- 📍 Based in **India** 🇮🇳
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔭 Currently building **full-stack apps** with Next.js & Node.js
+- 🌱 Learning **System Design** & **Advanced DSA**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **React, Node.js, MongoDB, or anything web-related**
+- ⚡ Fun fact: I think in components 🧩
+
+---
+
+## 💻 Tech Stack & Tools
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap" />
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase,prisma,fastapi,python" />
+</p>
+
+**Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,c,cpp,java,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirigaya07&theme=blueberry" alt="Profile Details" />
@@ -55,7 +69,7 @@ I enjoy building scalable applications, contributing to open source, and solving
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirigaya07&theme=blueberry" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirigaya07&theme=blueberry&utcOffset=9" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirigaya07&theme=blueberry&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
@@ -64,7 +78,23 @@ I enjoy building scalable applications, contributing to open source, and solving
 
 ---
 
-## 🏆 Achievements & Profiles  
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirigaya07&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kirigaya07/kirigaya07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🏆 Achievements & Profiles
 
 <p align="center">
   <a href="https://leetcode.com/kirigaya07"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" /></a>
@@ -73,12 +103,12 @@ I enjoy building scalable applications, contributing to open source, and solving
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirigaya07&theme=nord&margin-w=18&margin-h=18" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kirigaya07&theme=nord&margin-w=18&margin-h=18&no-bg=true&no-frame=true" alt="trophies" />
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/anmol-chandrakar-151b00257"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -89,11 +119,17 @@ I enjoy building scalable applications, contributing to open source, and solving
 </p>
 
 ---
-<p align="center"> <img src="./github-metrics.svg" alt="Metrics" /> </p>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</p>
 
 ---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-⭐ **Let’s build something amazing together!** 🚀
+---
+
+<p align="center">⭐ <strong>Let's build something amazing together!</strong> 🚀</p>
