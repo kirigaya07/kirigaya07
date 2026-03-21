@@ -58,20 +58,18 @@ I enjoy building scalable applications, contributing to open source, and solving
 
 ## 📊 GitHub Stats
 
+<!-- Profile details: monthly commit bars + language breakdown -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirigaya07&theme=blueberry" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirigaya07&theme=blueberry" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirigaya07&theme=blueberry" alt="Most Commit Language" />
-</p>
-
+<!-- Stats: stars, commits, PRs, issues count | Productive time: when I'm most active -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirigaya07&theme=blueberry" alt="GitHub Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirigaya07&theme=blueberry&utcOffset=5.5" alt="Productive Time" />
 </p>
 
+<!-- Streak: current & longest streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kirigaya07&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -80,6 +78,7 @@ I enjoy building scalable applications, contributing to open source, and solving
 
 ## 📈 Contribution Activity
 
+<!-- Daily contribution timeline over the past year -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirigaya07&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
@@ -102,6 +101,7 @@ I enjoy building scalable applications, contributing to open source, and solving
   <a href="https://www.codechef.com/users/kirigaya07"><img src="https://img.shields.io/badge/CodeChef-blue?style=for-the-badge&logo=codechef" /></a>
 </p>
 
+<!-- LeetCode stats: problems solved (Easy/Medium/Hard) + ranking -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kirigaya07?theme=dark&font=baloo_2&ext=activity&hide=contest" alt="LeetCode Stats" />
 </p>
@@ -116,12 +116,6 @@ I enjoy building scalable applications, contributing to open source, and solving
   <a href="https://github.com/kirigaya07"><img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" /></a>
   <a href="mailto:anmolchandrakar999@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://peerlist.io/kirigaya07"><img src="https://img.shields.io/badge/Peerlist-green?style=for-the-badge&logo=peerlist" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
