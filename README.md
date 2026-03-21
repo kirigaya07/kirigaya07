@@ -103,7 +103,9 @@ I enjoy building scalable applications, contributing to open source, and solving
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirigaya07&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kirigaya07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirigaya07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
