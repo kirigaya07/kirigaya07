@@ -103,9 +103,7 @@ I enjoy building scalable applications, contributing to open source, and solving
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirigaya07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirigaya07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/kirigaya07?theme=dark&font=baloo_2&ext=activity&hide=contest" alt="LeetCode Stats" />
 </p>
 
 ---
