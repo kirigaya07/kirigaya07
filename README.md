@@ -107,7 +107,7 @@ I enjoy building scalable applications, contributing to open source, and solving
 ## 🌐 3D Contribution Graph
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
