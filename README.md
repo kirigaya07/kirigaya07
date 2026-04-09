@@ -54,27 +54,6 @@ I enjoy building scalable applications, contributing to open source, and solving
 
 ---
 
-## 🛠️ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/kirigaya07/AspireAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirigaya07&repo=AspireAI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/kirigaya07/Zyflow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirigaya07&repo=Zyflow&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kirigaya07/linkyard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirigaya07&repo=linkyard&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/kirigaya07/finboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirigaya07&repo=finboard&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <!-- Profile details: monthly commit bars + language breakdown -->
