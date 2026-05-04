@@ -2284,8 +2284,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Minimum Operations to Make a Uni-Value Grid</div>
-                            <div class="date">29 Apr 2026</div>
+                            <div class="title">Rotate Image</div>
+                            <div class="date">5 May 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -2293,15 +2293,15 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Check if There is a Valid Path in a Grid</div>
-                            <div class="date">28 Apr 2026</div>
+                            <div class="title">Minimum Operations to Make a Uni-Value Grid</div>
+                            <div class="date">29 Apr 2026</div>
                         </div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2026, 19:48:39 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 May 2026, 01:19:09 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
