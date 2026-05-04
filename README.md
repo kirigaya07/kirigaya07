@@ -6,9 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirigaya07&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+[![Anmol Chandrakar profile views](https://u8views.com/api/v1/github/profiles/157145843/views/day-week-month-total-count.svg)](https://u8views.com/github/kirigaya07)
 
 ---
 
